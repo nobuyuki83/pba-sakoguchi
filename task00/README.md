@@ -12,7 +12,7 @@ Follow the instruction below to build the attached C++ code. This code will disp
 
 === (paste the screenshot image here`![](image file name)` ) ===
 kadai00
-![kadai00](/Users/sakoguchi/pba-sakoguchi/task00/kadai00_1.png)
+![kadai00](kadai00_1.png)
 
 
 
